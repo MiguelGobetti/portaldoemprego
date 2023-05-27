@@ -83,6 +83,8 @@ body{
     /*background-color:#13121A;*/
     width: 56px;
     height: 56px;
+    border: 8px solid #ffffff;
+    margin-bottom: 24px;
     border-radius: 50%;
     /*display: flex;*/
     justify-content: center;
